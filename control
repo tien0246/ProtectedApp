@@ -1,0 +1,9 @@
+Package: com.tien0246.protectedapp
+Name: ProtectedApp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome ProtectedApp tweak!
+Maintainer: tien0246
+Author: tien0246
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
